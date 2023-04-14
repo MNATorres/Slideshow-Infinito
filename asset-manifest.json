@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Slideshow-Infinito/static/css/main.17b02ef0.css",
+    "main.js": "/Slideshow-Infinito/static/js/main.6552f5cf.js",
+    "static/media/3.jpg": "/Slideshow-Infinito/static/media/3.66c6133e621ba445cafc.jpg",
+    "static/media/1.jpg": "/Slideshow-Infinito/static/media/1.7721c9f4fcf1e6785adf.jpg",
+    "static/media/2.jpg": "/Slideshow-Infinito/static/media/2.dc8f3bcb985dbcee4145.jpg",
+    "static/media/4.jpg": "/Slideshow-Infinito/static/media/4.1ff8a3988ef2da8d41b5.jpg",
+    "index.html": "/Slideshow-Infinito/index.html",
+    "static/media/iconmonstr-angel-left-thin.svg": "/Slideshow-Infinito/static/media/iconmonstr-angel-left-thin.b74b51c4c35fb292f28d63a42b7d73c9.svg",
+    "static/media/iconmonstr-angel-right-thin.svg": "/Slideshow-Infinito/static/media/iconmonstr-angel-right-thin.b282d2fca8839e80178c1a178ce23993.svg",
+    "main.17b02ef0.css.map": "/Slideshow-Infinito/static/css/main.17b02ef0.css.map",
+    "main.6552f5cf.js.map": "/Slideshow-Infinito/static/js/main.6552f5cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17b02ef0.css",
+    "static/js/main.6552f5cf.js"
+  ]
+}
